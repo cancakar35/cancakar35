@@ -2,7 +2,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =================================================================================================================================
 
 * 🌍  I'm based in Turkey - Izmir
-* ✉️  You can contact me at [ugurcan.cakar35@gmail.com](mailto:ugurcan.cakar35@gmail.com)
 * 🧠  I'm learning NLP
 * 🤝  I'm open to collaborating on ML - DL - NLP Projects
 
