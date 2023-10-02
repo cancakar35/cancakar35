@@ -1,1 +1,1 @@
-![githubprofile]([https://github.com/cancakar35/cancakar35/assets/54742785/75ca56bc-03c5-4084-9312-0b789049766f](https://github-production-user-asset-6210df.s3.amazonaws.com/54742785/271937714-75ca56bc-03c5-4084-9312-0b789049766f.svg)https://github-production-user-asset-6210df.s3.amazonaws.com/54742785/271937714-75ca56bc-03c5-4084-9312-0b789049766f.svg)
+![githubprofile](https://github.com/cancakar35/cancakar35/assets/54742785/b4908495-c072-4a27-924e-645245715884)
