@@ -1,3 +1,3 @@
 <picture>
-  <img alt="Image Alt Text" src="[http://example.com/path/image](https://github.com/cancakar35/cancakar35/assets/54742785/cfc1343d-5d2f-48d1-af50-4529f925d270)https://github.com/cancakar35/cancakar35/assets/54742785/cfc1343d-5d2f-48d1-af50-4529f925d270">
+  <img alt="Image Alt Text" src="https://github-production-user-asset-6210df.s3.amazonaws.com/54742785/271939588-cfc1343d-5d2f-48d1-af50-4529f925d270.svg">
 </picture>
